@@ -12,10 +12,12 @@ The Notes App is a web application built using React.js, designed to help users 
 **User-Friendly Interface**: The application features a clean and intuitive user interface, making it easy for users to manage their notes efficiently
 
 
-### Further Updates:
-1) A new authentication system would be integrated so that each user could individually access their account.
 
-2) A share option would be generated where the user can shre a particluar note to any of his friend.
 
 ![image](https://user-images.githubusercontent.com/91217295/208668902-dd474005-4ad7-4669-b074-f1970bad0fa1.png)
 
+
+### Further Updates:
+1) A new authentication system would be integrated so that each user could individually access their account.
+
+2) A share option would be generated where the user could share a particular note with any of his friends.
